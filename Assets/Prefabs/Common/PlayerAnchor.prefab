@@ -195,7 +195,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerActor: {fileID: 4258829407595934563}
-  forwardMoveSpeed: 5
+  forwardMoveSpeed: 10
   horizontalMoveSpeed: 14
   smoothTime: 0.1
   platformWidth: 0

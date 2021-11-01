@@ -54,11 +54,11 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: mainCameraPoses.m_values.Array.data[0].y
-    value: 16.91
+    value: 30.4
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: mainCameraPoses.m_values.Array.data[0].z
-    value: -18.31
+    value: -30.6
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: mainCameraPoses.m_values.Array.data[1].x
@@ -66,11 +66,11 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: mainCameraPoses.m_values.Array.data[1].y
-    value: 16.91
+    value: 30.4
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: mainCameraPoses.m_values.Array.data[1].z
-    value: -18.31
+    value: -30.6
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: mainCameraPoses.m_values.Array.data[2].x
